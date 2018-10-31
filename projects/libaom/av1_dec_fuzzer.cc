@@ -2,6 +2,7 @@
 
 #include <stddef.h>
 #include <stdint.h>
+#include <stderr.h>
 #include <stdio.h>
 #include <stdlib.h>
 #if defined(DECODE_MODE_threaded)
